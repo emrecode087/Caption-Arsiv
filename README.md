@@ -30,7 +30,7 @@ The backend is designed as a **modular monolith** using Clean Architecture princ
 
 ### Technologies
 
-- **C# / .NET 7**
+- **C# / .NET 9**
 - **Entity Framework Core**
 - **SQL Database** (users, tags, categories)
 - **MongoDB** (posts, notifications)
