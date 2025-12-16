@@ -133,6 +133,15 @@ GET  /api/notifications
 - Admin dashboard
 - Enhanced analytics and monitoring
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screen-1.png" width="220" />
+  <img src="screen-2.png" width="220" />
+  <img src="screen-3.png" width="220" />
+  <img src="screen-4.png" width="220" />
+  <img src="screen-5.png" width="220" />
+</p>
 
 ## 🧑‍💻 Author
 
