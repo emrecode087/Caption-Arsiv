@@ -107,14 +107,9 @@ The backend is designed as a **modular monolith** using Clean Architecture princ
 
 ## 📄 API Examples
 
----
-
-## 📄 API Examples
-
-```http
-GET  /api/homefeed
-POST /api/tags/update
-GET  /api/notifications
+- GET  /api/homefeed
+- POST /api/tags/update
+- GET  /api/notifications
 
 
 ## 📈 Project Goals
@@ -135,13 +130,12 @@ GET  /api/notifications
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="screen-1.png" width="220" />
-  <img src="screen-2.png" width="220" />
-  <img src="screen-3.png" width="220" />
-  <img src="screen-4.png" width="220" />
-  <img src="screen-5.png" width="220" />
-</p>
+![Screen 1](screen-1.png)
+![Screen 2](screen-2.png)
+![Screen 3](screen-3.png)
+![Screen 4](screen-4.png)
+![Screen 5](screen-5.png)
+
 
 ## 🧑‍💻 Author
 
