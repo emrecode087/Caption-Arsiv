@@ -72,7 +72,7 @@ The backend is designed as a **modular monolith** using Clean Architecture princ
 
 ### Mobile Features
 
-- Google & Apple authentication  
+- Google & Apple authentication.
 - Push notification support  
 - Light / Dark theme switching  
 - Reusable and scalable UI components  
